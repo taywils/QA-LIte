@@ -24,6 +24,8 @@ Q&A Lite
 - Official Answers: Allow the owner of a question to choose the correct answer
 - Question Sorting and Ranking: Sort Questions by views and or most answers
 - Community Answer: Perhaps the owner of the original question had bad taste; so let the community pick the best answer
+- Add Users From Existing MySQL: Most PHP sites use MySQL, thus user profiles need to be transferred, or just use MySQL for Auth
+- Admin Console: If I ever get to this point, an Admin console will be the **last** feature
 
 ### Tech Info
 
