@@ -30,9 +30,8 @@ Q&A Lite
 ### Tech Info
 
 - PHP 5
-- Lithium, a nice MVC framework for PHP 5
-- MongoDB for storage
+- Lithium, MVC framework for PHP 5
+- MongoDB 
 - jQuery
 - jQuery UI
-- Twitter Bootstrap because I lack awesome web design skills at the moment(this will change of course)
-- IntelliJ IDEA IDE(with PHPStorm) was used so if you use it too then be sure to load the .idea file
+- Twitter Bootstrap 
