@@ -13,25 +13,13 @@ Q&A Lite
 - Search by Question
 - Search by Answer
 - Browse by Tag
-- Profiles: This will probably be replaced see the future list for more info
 
 ### Future Versions
 
-- Profile pics: Upload your own or use a third party
-- Pagination: This is pretty much required.
-- Auto-Tagging of Questions: Sounds cool(for lazy folks) but not quite sure if actually useful
-- U.I: Visual tweaks will always be added until I'm satisfied with the overall look
-- Official Answers: Allow the owner of a question to choose the correct answer
-- Question Sorting and Ranking: Sort Questions by views and or most answers
-- Community Answer: Perhaps the owner of the original question had bad taste; so let the community pick the best answer
-- Add Users From Existing MySQL: Most PHP sites use MySQL, thus user profiles need to be transferred, or just use MySQL for Auth
-- Admin Console: If I ever get to this point, an Admin console will be the **last** feature
+- **Blog post and code walkthrough comming soon**
 
-### Tech Info
+- This code base was primarily used a test case for using the Lithium PHP framework. At most it should only
+  be used as an example and not for anything production ready or large scale.
 
-- PHP 5
-- Lithium, MVC framework for PHP 5
-- MongoDB 
-- jQuery
-- jQuery UI
-- Twitter Bootstrap 
+- There will be no future work on this codebase however you are free to fork it and improve as you desire
+
