@@ -2,3 +2,7 @@
 app/libraries/*
 app/resources/tmp/*
 .*.sw[op]
+*.iml
+*.ipr
+*.iws
+.idea/
