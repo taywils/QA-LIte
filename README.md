@@ -14,9 +14,8 @@ Q&A Lite
 - Search by Answer
 - Browse by Tag
 
-### Future Versions
+### Notice
 
-- **Blog post and code walkthrough comming soon**
 
 - This code base was primarily used a test case for using the Lithium PHP framework. At most it should only
   be used as an example and not for anything production ready or large scale.
